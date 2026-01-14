@@ -46,3 +46,7 @@ sysinfo.txt
 .DS_Store
 Thumbs.db
 
+*.sln
+*.slnx
+*.csproj
+
