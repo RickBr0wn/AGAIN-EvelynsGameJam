@@ -1,0 +1,48 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Meta files: only ignore these if the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio / IDE
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# OS files
+.DS_Store
+Thumbs.db
+
